@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PKvPHU19o4t/XlIYsJ/TQt+h5wDJxbTVS4WolsS39gxqkEtBVYsNkTp0js5JGtFFHhhDY7g9Wf+DWThZkrzyng==",
+  "dgSpecHash": "lmPl0x+0kXuw4Cr94PdK9EI+fVq/UdJ1xt7ziEZu5vCp4em/IjquLkPQRRDU9Hg9Z76xQw8dpzwnMsuIPpe6fw==",
   "success": true,
-  "projectFilePath": "E:\\Personal Programming\\WhoHasIt\\API\\WhoHasItAPI\\WhoHasItAPI\\WhoHasItAPI.csproj",
+  "projectFilePath": "E:\\Personal Programming\\Who-Has-It\\API\\WhoHasItAPI\\WhoHasItAPI\\WhoHasItAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Richard\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Richard\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GN8DsGhoFfGjUG9T9MUsKnDkIxOsSfo2yRH25/gEPCM=",
+  "Hash": "gktx3Z4qJqjMWO/fd45bfcbJtFGoXKii9gWX0ZNqXbU=",
   "Source": "WhoHasItAPI",
   "BasePath": "_content/WhoHasItAPI",
   "Mode": "Default",
@@ -47,10 +47,10 @@
       "OriginalItemSpec": "C:\\Users\\Richard\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "E:\\Personal Programming\\WhoHasIt\\API\\WhoHasItAPI\\WhoHasItAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WhoHasItAPI.styles.css",
+      "Identity": "E:\\Personal Programming\\Who-Has-It\\API\\WhoHasItAPI\\WhoHasItAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WhoHasItAPI.styles.css",
       "SourceId": "WhoHasItAPI",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Personal Programming\\WhoHasIt\\API\\WhoHasItAPI\\WhoHasItAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\Personal Programming\\Who-Has-It\\API\\WhoHasItAPI\\WhoHasItAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WhoHasItAPI",
       "RelativePath": "WhoHasItAPI.styles.css",
       "AssetKind": "All",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Personal Programming\\WhoHasIt\\API\\WhoHasItAPI\\WhoHasItAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WhoHasItAPI.styles.css"
+      "OriginalItemSpec": "E:\\Personal Programming\\Who-Has-It\\API\\WhoHasItAPI\\WhoHasItAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WhoHasItAPI.styles.css"
     }
   ]
 }

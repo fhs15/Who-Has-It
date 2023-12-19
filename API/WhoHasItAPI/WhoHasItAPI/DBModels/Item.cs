@@ -12,7 +12,12 @@ public partial class Item
     [Column("ID")]
     public int Id { get; set; }
 
+    [Required]
     [StringLength(255)]
     [Unicode(false)]
     public string ItemName { get; set; }
+
+    [StringLength(255)]
+    [Unicode(false)]
+    public string? ImageName { get; set; }
 }

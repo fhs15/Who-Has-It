@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Personal Programming\\WhoHasIt\\API\\WhoHasItAPI\\WhoHasItAPI\\WhoHasItAPI.csproj": {}
+    "E:\\Personal Programming\\Who-Has-It\\API\\WhoHasItAPI\\WhoHasItAPI\\WhoHasItAPI.csproj": {}
   },
   "projects": {
-    "E:\\Personal Programming\\WhoHasIt\\API\\WhoHasItAPI\\WhoHasItAPI\\WhoHasItAPI.csproj": {
+    "E:\\Personal Programming\\Who-Has-It\\API\\WhoHasItAPI\\WhoHasItAPI\\WhoHasItAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Personal Programming\\WhoHasIt\\API\\WhoHasItAPI\\WhoHasItAPI\\WhoHasItAPI.csproj",
+        "projectUniqueName": "E:\\Personal Programming\\Who-Has-It\\API\\WhoHasItAPI\\WhoHasItAPI\\WhoHasItAPI.csproj",
         "projectName": "WhoHasItAPI",
-        "projectPath": "E:\\Personal Programming\\WhoHasIt\\API\\WhoHasItAPI\\WhoHasItAPI\\WhoHasItAPI.csproj",
+        "projectPath": "E:\\Personal Programming\\Who-Has-It\\API\\WhoHasItAPI\\WhoHasItAPI\\WhoHasItAPI.csproj",
         "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-        "outputPath": "E:\\Personal Programming\\WhoHasIt\\API\\WhoHasItAPI\\WhoHasItAPI\\obj\\",
+        "outputPath": "E:\\Personal Programming\\Who-Has-It\\API\\WhoHasItAPI\\WhoHasItAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
